@@ -1,0 +1,63 @@
+#mainDiv{
+    display: flex;
+    border-bottom: 1px solid rgb(255, 254, 254);
+    padding: 40px;
+    background-color: black;
+}
+.image{
+    height: 30px;
+    width: 30px;
+    margin-left: 30px;
+    margin-right: 0px;
+    margin-top: 20px;
+    align-items: center;
+    
+}
+
+.name{
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 100px;
+    height: 40px;
+    color: aliceblue;
+    align-items: center;
+}
+.symbol{
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 100px;
+    height: 40px;
+    color: aliceblue;
+    align-items: center;
+}
+.coin {
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 100px;
+    height: 40px;
+    color: aliceblue;
+    align-items: center;
+}
+.totalVolume{
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 100px;
+    height: 40px;
+    color: aliceblue;
+    align-items: center;
+}
+.percentage{
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 100px;
+    height: 40px;
+    align-items: center;
+}
+.marketCap{
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 280px;
+    height: 40px;
+    color: aliceblue;
+    align-items: center;
+}
